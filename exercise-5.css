@@ -1,0 +1,20 @@
+/**
+ * Exercise 5
+ * Change the appearance of the buttons as pointed in the below image.
+ * - The top button should have a white border and a blue background;
+ * - The bottom button should have both the border and background white-coloured;
+ */
+
+// Primary button (the top button style)
+.btn.primary .cta-body {
+  border-color: #fff;
+  background-color: #0076ce; // blue
+  color: #fff;
+}
+
+// Secondary button (the bottom button style)
+.btn.secondary .cta-body {
+  border-color: #fff;
+  background-color: #0076ce; // blue
+  color: #fff;
+}
